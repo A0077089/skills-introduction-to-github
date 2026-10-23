@@ -1,6 +1,5 @@
 <header>
 
-This is some new Text for a Test
 
 <!--
   <<< Author notes: Course header >>>
